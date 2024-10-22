@@ -8,7 +8,7 @@
 Welcome to the Awesome Diffusion Policy Family repository! This collection aims to gather and organize representative research papers related to Diffusion Policies (DP) in robotics.
 
 🚨 Note: Please be aware that the acceptance status of papers might not be up-to-date.  
-💬 Feel free to PR by this Google Sheet if you find any missing papers!
+💬 Feel free to PR by this [**Google Form**](https://forms.gle/Rc3yPaEaRSY3AqbQ6) if you found any missing papers!
 
 ## Scope 
 
