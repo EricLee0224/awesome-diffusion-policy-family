@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-#### Curated by [Weize Li](https://ericlee0224.github.io/) ;
+
 ---
 Welcome to the Awesome Diffusion Policy Family repository! This collection aims to gather and organize representative research papers related to Diffusion Policies (DP) in robotics.
 
