@@ -18,9 +18,16 @@ This is a curated list of peer-reviewed papers that contribute to the field of r
  - `RSS 2023` [Diffusion Policy Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) | [[Website]](https://diffusion-policy.cs.columbia.edu/)
 
 ## 🗃️Recent Research 
-[Latest Update: 2024/10/22☕] 
+[Latest Update: 2024/10/23☕] 
  - `RSS 2024` [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954) | [[Website]](https://3d-diffusion-policy.github.io/)
+ - `RSS 2024` [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) | [[Website]](https://consistency-policy.github.io/)
  - `CVPR 2024` [Hierarchical Diffusion Policy for Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890) | [[Website]](https://yusufma03.github.io/projects/hdp/)
+ - `ICRA 2024` [Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning](https://arxiv.org/abs/2307.01849) | [[Website]](https://github.com/LostXine/crossway_diffusion)
+ - `CoRL 2024` [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) | [[Website]](https://equidiff.github.io/)
+ - `CoRL 2023` [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535) | [[Website]](https://www.cs.columbia.edu/~huy/scalingup/)
+ - `CoRL 2023` [ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation](https://openreview.net/forum?id=W0zgY2mBTA8) | [[Website]](https://chained-diffuser.github.io/)
+ - `ICLR 2023` [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193) | [[Website]](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL)
+ - `ICLR 2023` [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677) | [[Website]](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion)
 
 ## License
 This project is licensed under the MIT License.
