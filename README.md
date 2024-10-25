@@ -25,7 +25,7 @@ This is a curated list of peer-reviewed papers that contribute to the field of r
 [Latest Update: 2024/10/25☕] 
 
 ### Visuomotor
-* `ICLR 2023` [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677) | [[Website]](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion)
+ - `ICLR 2023` [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677) | [[Website]](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion)
  - `RSS 2024` [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954) | [[Website]](https://3d-diffusion-policy.github.io/)
  - `ICRA 2024` [Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning](https://arxiv.org/abs/2307.01849) | [[Website]](https://github.com/LostXine/crossway_diffusion)
  - `CoRL 2024` [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) | [[Website]](https://3d-diffuser-actor.github.io/)
@@ -41,21 +41,21 @@ This is a curated list of peer-reviewed papers that contribute to the field of r
  - `CoRL 2024` [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) | [[Website]](https://equidiff.github.io/)
 
 ### Heterogeneous
-* `RSS 2024` [PoCo: Policy Composition from and for Heterogeneous Robot Learning](https://arxiv.org/abs/2402.02511) | [[Website]](https://liruiw.github.io/policycomp/)
-* `CoRL 2024` `Oral` [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://arxiv.org/abs/2408.11812) | [[Website]](https://crossformer-model.github.io)
-* `NeurIPS 2024` [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://arxiv.org/abs/2409.20537) | [[Website]](https://liruiw.github.io/hpt)
+ - `RSS 2024` [PoCo: Policy Composition from and for Heterogeneous Robot Learning](https://arxiv.org/abs/2402.02511) | [[Website]](https://liruiw.github.io/policycomp/)
+ - `CoRL 2024` `Oral` [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://arxiv.org/abs/2408.11812) | [[Website]](https://crossformer-model.github.io)
+ - `NeurIPS 2024` [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://arxiv.org/abs/2409.20537) | [[Website]](https://liruiw.github.io/hpt)
 
 ### Data Quality
  - `CoRL 2023` [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535) | [[Website]](https://www.cs.columbia.edu/~huy/scalingup/)
 
 ### Hardware
-* `RSS 2024` `Best Systems Paper Award Finalist` [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://arxiv.org/abs/2402.10329) | [[Website]](https://umi-gripper.github.io/)
-* `RSS 2024` [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) | [[Website]](https://dex-cap.github.io/)
+ - `RSS 2024` `Best Systems Paper Award Finalist` [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://arxiv.org/abs/2402.10329) | [[Website]](https://umi-gripper.github.io/)
+ - `RSS 2024` [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) | [[Website]](https://dex-cap.github.io/)
 
 ### Planning
-* `IROS 2023` [Motion Planning Diffusion: Learning and Planning of Robot Motions with Diffusion Models](https://arxiv.org/abs/2308.01557) | [[Website]](https://sites.google.com/view/mp-diffusion)
-* `ICML 2024` [Potential Based Diffusion Motion Planning](https://arxiv.org/abs/2407.06169) | [[Website]](https://energy-based-model.github.io/potential-motion-plan)
-* `NeurIPS 2024` [Model-Based Diffusion for Trajectory Optimization](https://arxiv.org/abs/2407.01573) | [[Website]](https://lecar-lab.github.io/mbd/)
+ - `IROS 2023` [Motion Planning Diffusion: Learning and Planning of Robot Motions with Diffusion Models](https://arxiv.org/abs/2308.01557) | [[Website]](https://sites.google.com/view/mp-diffusion)
+ - `ICML 2024` [Potential Based Diffusion Motion Planning](https://arxiv.org/abs/2407.06169) | [[Website]](https://energy-based-model.github.io/potential-motion-plan)
+ - `NeurIPS 2024` [Model-Based Diffusion for Trajectory Optimization](https://arxiv.org/abs/2407.01573) | [[Website]](https://lecar-lab.github.io/mbd/)
 
 ### Offline RL
  - `ICLR 2023` [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193) | [[Website]](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL)
