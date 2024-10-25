@@ -70,7 +70,7 @@ This is a curated list of peer-reviewed papers that contribute to the field of r
 ### Offline RL
  - `ICLR 2023` [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193) | [[Website]](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL)
 
-#### 📄arXiv
+## 📄arXiv
 
 # License
 
