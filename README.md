@@ -68,8 +68,9 @@ This is a curated list of peer-reviewed papers that contribute to the field of r
 * `NeurIPS 2024` [Model-Based Diffusion for Trajectory Optimization](https://arxiv.org/abs/2407.01573) | [[Website]](https://lecar-lab.github.io/mbd/)
 
 ### Offline RL
-
  - `ICLR 2023` [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193) | [[Website]](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL)
+
+#### 📄arXiv
 
 # License
 
